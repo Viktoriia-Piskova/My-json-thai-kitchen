@@ -11,16 +11,16 @@
         "name": "Pad Thai Spicy",
         "ingredients":
           "stir-fry dish made with rice noodles, shrimp, chicken, or tofu, peanuts,a scrambled egg and bean sprouts",
-        "price": 50,
-        "discount": 100
+        "price": 80,
+        "discount": 80
       },
       {
         "id": "d2",
-        "name": "Pad Thai Spicy",
+        "name": "Thai Chicken Satay",
         "ingredients":
-          "stir-fry dish made with rice noodles, shrimp, chicken, or tofu, peanuts,a scrambled egg and bean sprouts",
-        "price": 50,
-        "discount": 100
+          "Satay is popular throughout Southeast Asia, and this Thai satay recipe offers a traditional taste",
+        "price": 150,
+        "discount": 0
       },
       {
         "id": "d2",
