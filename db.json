@@ -1,13 +1,13 @@
   {
     "dishes": [{
-        "id": "d1",
-        "name": "Pad Thai Classic",
+        "id": "d01",
+        "name": "Tom Yum Goong",
         "ingredients":
-          "stir-fry dish made with rice noodles, shrimp, chicken, or tofu, peanuts,a scrambled egg and bean sprouts",
+          "lemongrass, chilli, galangal, kaffier lime leaves, shallots, fresh lime juice and plenty of fish sauce",
         "price": 50,
         "discount": 100
       }, {
-        "id": "d2",
+        "id": "d02",
         "name": "Pad Thai Spicy",
         "ingredients":
           "stir-fry dish made with rice noodles, shrimp, chicken, or tofu, peanuts,a scrambled egg and bean sprouts",
@@ -15,7 +15,7 @@
         "discount": 80
       },
       {
-        "id": "d2",
+        "id": "d03",
         "name": "Thai Chicken Satay",
         "ingredients":
           "Satay is popular throughout Southeast Asia, and this Thai satay recipe offers a traditional taste",
@@ -23,7 +23,15 @@
         "discount": 0
       },
       {
-        "id": "d2",
+        "id": "d04",
+        "name": "Pad Thai Spicy",
+        "ingredients":
+          "stir-fry dish made with rice noodles, shrimp, chicken, or tofu, peanuts,a scrambled egg and bean sprouts",
+        "price": 50,
+        "discount": 50
+      },
+      {
+        "id": "d05",
         "name": "Pad Thai Spicy",
         "ingredients":
           "stir-fry dish made with rice noodles, shrimp, chicken, or tofu, peanuts,a scrambled egg and bean sprouts",
@@ -31,7 +39,7 @@
         "discount": 100
       },
       {
-        "id": "d2",
+        "id": "d06",
         "name": "Pad Thai Spicy",
         "ingredients":
           "stir-fry dish made with rice noodles, shrimp, chicken, or tofu, peanuts,a scrambled egg and bean sprouts",
@@ -39,7 +47,7 @@
         "discount": 100
       },
       {
-        "id": "d2",
+        "id": "d07",
         "name": "Pad Thai Spicy",
         "ingredients":
           "stir-fry dish made with rice noodles, shrimp, chicken, or tofu, peanuts,a scrambled egg and bean sprouts",
@@ -47,7 +55,7 @@
         "discount": 100
       },
       {
-        "id": "d2",
+        "id": "d08",
         "name": "Pad Thai Spicy",
         "ingredients":
           "stir-fry dish made with rice noodles, shrimp, chicken, or tofu, peanuts,a scrambled egg and bean sprouts",
@@ -55,16 +63,16 @@
         "discount": 100
       },
       {
-        "id": "d2",
-        "name": "Pad Thai Spicy",
+        "id": "d09",
+        "name": "Tom Kha Gai",
         "ingredients":
           "stir-fry dish made with rice noodles, shrimp, chicken, or tofu, peanuts,a scrambled egg and bean sprouts",
         "price": 50,
         "discount": 100
       },
       {
-        "id": "d2",
-        "name": "Pad Thai Spicy",
+        "id": "d10",
+        "name": "Tom Kha Gai",
         "ingredients":
           "stir-fry dish made with rice noodles, shrimp, chicken, or tofu, peanuts,a scrambled egg and bean sprouts",
         "price": 50,
