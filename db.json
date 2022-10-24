@@ -5,14 +5,14 @@
         "ingredients":
           "lemongrass, chilli, galangal, kaffier lime leaves, shallots, fresh lime juice and plenty of fish sauce",
         "price": 50,
-        "discount": 100
+        "discount": 10
       }, {
         "id": "d02",
         "name": "Pad Thai Spicy",
         "ingredients":
           "stir-fry dish made with rice noodles, shrimp, chicken, or tofu, peanuts,a scrambled egg and bean sprouts",
         "price": 80,
-        "discount": 80
+        "discount": 8
       },
       {
         "id": "d03",
@@ -24,59 +24,59 @@
       },
       {
         "id": "d04",
-        "name": "Thai Chicken Satay",
+        "name": "Noodle Soup",
         "ingredients":
-          "stir-fry dish made with rice noodles, shrimp, chicken, or tofu, peanuts,a scrambled egg and bean sprouts",
-        "price": 50,
-        "discount": 50
+          "It can be made with chicken, pork, or beef (rarely vegetarian-friendly)",
+        "price": 60,
+        "discount": 0
       },
       {
         "id": "d05",
-        "name": "Pad Thai Spicy",
+        "name": "Spicy Shrimp Soup",
         "ingredients":
-          "stir-fry dish made with rice noodles, shrimp, chicken, or tofu, peanuts,a scrambled egg and bean sprouts",
+          "lemongrass, chilli, galangal, kaffier lime leaves, shallots, fresh lime juice and plenty of fish sauce",
         "price": 50,
-        "discount": 100
+        "discount": 10
       },
       {
         "id": "d06",
-        "name": "Pad Thai Spicy",
+        "name": "Chicken in Coconut Soup",
         "ingredients":
-          "stir-fry dish made with rice noodles, shrimp, chicken, or tofu, peanuts,a scrambled egg and bean sprouts",
-        "price": 50,
-        "discount": 100
+          "Tom kha gai is related to tom yum and offers people with a lower tolerance to spice",
+        "price": 200,
+        "discount": 0
       },
       {
         "id": "d07",
-        "name": "Thai Chicken Satay",
+        "name": "Green Papaya Salad",
         "ingredients":
-          "stir-fry dish made with rice noodles, shrimp, chicken, or tofu, peanuts,a scrambled egg and bean sprouts",
-        "price": 50,
-        "discount": 100
+          "Som tam hails from Isaan in Northeastern Thailand and is one of the most popular dishes in Thailand  ",
+        "price": 70,
+        "discount": 10
       },
       {
         "id": "d08",
-        "name": "Pad Thai Spicy",
+        "name": "Yam Pla Dook Foo",
         "ingredients":
-          "stir-fry dish made with rice noodles, shrimp, chicken, or tofu, peanuts,a scrambled egg and bean sprouts",
-        "price": 50,
-        "discount": 100
+          "The secret to this dish is the pairing of the crispy fish with sweet, sour and spicy green mango salad",
+        "price": 90,
+        "discount": 20
       },
       {
         "id": "d09",
-        "name": "Tom Kha Gai",
+        "name": "Laab (Spicy Salad)",
         "ingredients":
-          "stir-fry dish made with rice noodles, shrimp, chicken, or tofu, peanuts,a scrambled egg and bean sprouts",
-        "price": 50,
-        "discount": 100
+          "Laab is a northeastern-style salad with meat or mushroom and mint",
+        "price": 70,
+        "discount": 0
       },
       {
         "id": "d10",
-        "name": "Tom Kha Gai",
+        "name": "Khao Pad",
         "ingredients":
-          "stir-fry dish made with rice noodles, shrimp, chicken, or tofu, peanuts,a scrambled egg and bean sprouts",
-        "price": 50,
-        "discount": 100
+          "Khao pad simply translates to “fried rice” and is just that with some egg",
+        "price": 150,
+        "discount": 50
       }
 
     ]
